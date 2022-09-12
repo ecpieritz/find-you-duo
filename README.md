@@ -18,6 +18,7 @@
 - Javascript
 - React
 - Express
+- Node.js
 
 ---
 
