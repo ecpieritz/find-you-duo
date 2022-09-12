@@ -25,10 +25,10 @@
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/ecpieritz/find-you-duo.git
+git clone https://github.com/ecpieritz/find-your-duo.git
 
 #### Enter directory
-- `cd find-you-duo`
+- `cd find-your-duo`
 - `cd web` or `cd mobile`
 
 #### Run the server
