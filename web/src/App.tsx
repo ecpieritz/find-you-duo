@@ -1,6 +1,8 @@
+import './styles/main.css'
+
 function App() {
-  return <div>
-    <h1>Olá! :D</h1>
+  return <div >
+    
   </div>
 }
 
