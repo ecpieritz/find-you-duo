@@ -18,6 +18,7 @@
 - Javascript
 - Typescript
 - React
+- Tailwind
 - Express
 - Node.js
 
