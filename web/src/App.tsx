@@ -6,6 +6,7 @@ import fdDota from './assets/img/fd-img__dota.png'
 import fdFortnite from './assets/img/fd-img__fortnite.png'
 import fdLol from './assets/img/fd-img__lol.png'
 import fdValorant from './assets/img/fd-img__valorant.png'
+import searchIcon from './assets/img/fd-icon__plus.png'
 
 function App() {
   return <div className='max-w-[1344px] mx-auto flex flex-col items-center my-10'>
@@ -61,6 +62,19 @@ function App() {
         </div>
       </a>
 
+    </div>
+
+    <div className='pt-1 bg-fd-gradient mt-8 self-stretch rounded-lg overflow-hidden'>
+      <div className='bg-[#1c3247] px-8 py-6 flex justify-between items-center'>
+        <div>
+        <strong className='text-white block font-bold text-2xl'>Não encontrou seu duo?</strong>
+        <span className='text-zinc-400'>Publique um anúncio para encontrar novos players!</span>
+        </div>
+
+        <button className='py-3 px-4 bg-blue-500 hover:bg-blue-600 rounded text-white flex items-center gap-3'>
+          <img src={searchIcon} className="w-6" alt="" />
+          Publicar anúncio</button>
+      </div>
     </div>
   </div>
 }
