@@ -2,13 +2,11 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "xxx" width = "700" height = "auto">
-  <img src = "xxx" width = "350" height = "auto">
-  <img src = "xxx" width = "350" height = "auto">
+  <img src = "https://github.com/ecpieritz/find-your-duo/blob/main/web/public/img/print-01.png?raw=true" width = "700" height = "auto">
 </p>
 
 ## 📖 About
-<p>Application to find partners in games.</p>
+<p>Application to find partners in games. (only front-end)</p>
 
 ---
 
